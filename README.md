@@ -1,7 +1,7 @@
 # mali-demo
 backend springboot
 
-springboot
+springboot 2
 
 hibernate + MySQL
 
